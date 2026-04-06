@@ -42,3 +42,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+*/.gitignore
+*/.gitattributes
+*/.mvn
+*/mvnw
+*/mvnw.*
